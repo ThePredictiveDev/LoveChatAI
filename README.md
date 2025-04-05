@@ -93,7 +93,7 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 License
 -------
 
-This project is open source. Please refer to the repository for licensing details or add a license file as appropriate.
+This project is open source. Covered under the MIT License
 
 Conclusion
 ----------
